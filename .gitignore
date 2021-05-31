@@ -7,6 +7,10 @@
 .gitignore
 app/test/test-output/
 
+
+# Mac
+.DS_Store
+
 # Intellij
 .idea/
 *.iml

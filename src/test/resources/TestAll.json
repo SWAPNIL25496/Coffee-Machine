@@ -1,0 +1,447 @@
+[
+  {
+    "machine": {
+      "outlets": {
+        "count_n": 3
+      },
+      "beverages": {
+        "hot_tea": [
+          {"hot_milk": 100},
+          {"hot_water": 200},
+          {"sugar_syrup": 10},
+          {"ginger_syrup": 10},
+          {"tea_leaves_syrup": 30}
+        ],
+        "black_tea": [
+          {"hot_water": 300},
+          {"sugar_syrup": 50},
+          {"ginger_syrup": 30},
+          {"tea_leaves_syrup": 30}
+        ],
+        "green_tea": [
+          {"hot_water": 100},
+          {"sugar_syrup": 50},
+          {"ginger_syrup": 30},
+          {"green_mixture": 30}
+        ],
+        "hot_coffee": [
+          {"hot_milk": 400},
+          {"hot_water": 100},
+          {"sugar_syrup": 50},
+          {"ginger_syrup": 30},
+          {"tea_leaves_syrup": 30}
+        ]
+      },
+      "total_items_quantity": {
+        "hot_milk": 500,
+        "hot_water": 500,
+        "sugar_syrup": 100,
+        "ginger_syrup": 100,
+        "tea_leaves_syrup": 100
+      }
+    }
+  },
+
+  {
+    "machine": {
+      "outlets": {
+        "count_n": 3
+      },
+      "beverages": {
+        "hot_tea": [
+          {"hot_milk": 100},
+          {"hot_water": 200},
+          {"sugar_syrup": 10},
+          {"ginger_syrup": 10},
+          {"tea_leaves_syrup": 30}
+        ],
+        "black_tea": [
+          {"hot_water": 300},
+          {"sugar_syrup": 50},
+          {"ginger_syrup": 30},
+          {"tea_leaves_syrup": 30}
+        ],
+        "green_tea": [
+          {"hot_water": 100},
+          {"sugar_syrup": 50},
+          {"ginger_syrup": 30},
+          {"green_mixture": 30}
+        ],
+        "plain_green_tea": [
+          {"hot_water": 100},
+          {"ginger_syrup": 30},
+          {"green_mixture": 30}
+        ]
+      },
+      "total_items_quantity": {
+        "hot_milk": 500,
+        "hot_water": 500,
+        "sugar_syrup": 100,
+        "ginger_syrup": 100,
+        "tea_leaves_syrup": 100
+      }
+    }
+  },
+
+  {
+    "machine": {
+      "outlets": {
+        "count_n": 4
+      },
+      "beverages": {
+        "hot_tea": [
+          {"hot_milk": 100},
+          {"hot_water": 200},
+          {"sugar_syrup": 10},
+          {"ginger_syrup": 10},
+          {"tea_leaves_syrup": 30}
+        ],
+        "black_tea": [
+          {"hot_water": 300},
+          {"sugar_syrup": 50},
+          {"ginger_syrup": 30},
+          {"tea_leaves_syrup": 30}
+        ],
+        "green_tea": [
+          {"hot_water": 100},
+          {"sugar_syrup": 50},
+          {"ginger_syrup": 30},
+          {"green_mixture": 30}
+        ],
+        "hot_coffee": [
+          {"hot_milk": 400},
+          {"hot_water": 100},
+          {"sugar_syrup": 50},
+          {"ginger_syrup": 30},
+          {"tea_leaves_syrup": 30}
+        ]
+      },
+      "total_items_quantity": {
+        "hot_milk": 500,
+        "hot_water": 700,
+        "sugar_syrup": 160,
+        "ginger_syrup": 100,
+        "tea_leaves_syrup": 90,
+        "green_mixture": 30
+      }
+    }
+  },
+
+  {
+    "machine": {
+      "outlets": {
+        "count_n": 3
+      },
+      "beverages": {
+        "hot_tea": [
+          {"hot_milk": 100},
+          {"hot_water": 200},
+          {"sugar_syrup": 10},
+          {"ginger_syrup": 10},
+          {"tea_leaves_syrup": 30}
+        ],
+        "black_tea": [
+          {"hot_water": 300},
+          {"sugar_syrup": 50},
+          {"ginger_syrup": 30},
+          {"tea_leaves_syrup": 30}
+        ],
+        "green_tea": [
+          {"hot_water": 100},
+          {"sugar_syrup": 50},
+          {"ginger_syrup": 30},
+          {"green_mixture": 30}
+        ],
+        "hot_coffee": [
+          {"hot_milk": 400},
+          {"hot_water": 100},
+          {"sugar_syrup": 50},
+          {"ginger_syrup": 30},
+          {"tea_leaves_syrup": 30}
+        ]
+      },
+      "total_items_quantity": {
+        "hot_milk": 0,
+        "hot_water": 0,
+        "sugar_syrup": 0,
+        "ginger_syrup": 0,
+        "tea_leaves_syrup": 0,
+        "green_mixture": 0
+      }
+    }
+  },
+
+  {
+    "machine": {
+      "outlets": {
+        "count_n": 3
+      },
+      "beverages": {
+        "hot_tea": [
+          {"hot_milk": 100},
+          {"hot_water": 200},
+          {"sugar_syrup": 10},
+          {"ginger_syrup": 10},
+          {"tea_leaves_syrup": 30}
+        ],
+        "black_tea": [
+          {"hot_water": 300},
+          {"sugar_syrup": 50},
+          {"ginger_syrup": 30},
+          {"tea_leaves_syrup": 30}
+        ],
+        "green_tea": [
+          {"hot_water": 100},
+          {"sugar_syrup": 50},
+          {"ginger_syrup": 30},
+          {"green_mixture": 30}
+        ],
+        "hot_coffee": [
+          {"hot_milk": 400},
+          {"hot_water": 100},
+          {"sugar_syrup": 50},
+          {"ginger_syrup": 30},
+          {"tea_leaves_syrup": 30}
+        ]
+      },
+      "total_items_quantity": {
+      }
+    }
+  },
+
+  {
+    "machine": {
+      "outlets": {
+        "count_n": 3
+      },
+      "beverages": {
+        "hot_tea": [
+          {"hot_milk": 100},
+          {"hot_water": 200},
+          {"sugar_syrup": 10},
+          {"ginger_syrup": 10},
+          {"tea_leaves_syrup": 30}
+        ],
+        "black_tea": [
+          {"hot_water": 300},
+          {"sugar_syrup": 50},
+          {"ginger_syrup": 30},
+          {"tea_leaves_syrup": 30}
+        ],
+        "green_tea": [
+          {"hot_water": 100},
+          {"sugar_syrup": 50},
+          {"ginger_syrup": 30},
+          {"green_mixture": 30}
+        ],
+        "hot_coffee": [
+          {"hot_milk": 400},
+          {"hot_water": 100},
+          {"sugar_syrup": 50},
+          {"ginger_syrup": 30},
+          {"tea_leaves_syrup": 30}
+        ]
+      },
+      "total_items_quantity": {
+        "a": 500,
+        "b": 700,
+        "c": 160,
+        "d": 100,
+        "e": 90,
+        "f": 30
+      }
+    }
+  },
+
+  {
+    "machine": {
+      "outlets": {
+        "count_n": 25
+      },
+      "beverages": {
+        "hot_tea": [
+          {"hot_milk": 100},
+          {"hot_water": 200},
+          {"sugar_syrup": 10},
+          {"ginger_syrup": 10},
+          {"tea_leaves_syrup": 30}
+        ],
+        "black_tea": [
+          {"hot_water": 300},
+          {"sugar_syrup": 50},
+          {"ginger_syrup": 30},
+          {"tea_leaves_syrup": 30}
+        ],
+        "green_tea": [
+          {"hot_water": 100},
+          {"sugar_syrup": 50},
+          {"ginger_syrup": 30},
+          {"green_mixture": 30}
+        ],
+        "hot_coffee": [
+          {"hot_milk": 400},
+          {"hot_water": 100},
+          {"sugar_syrup": 50},
+          {"ginger_syrup": 30},
+          {"tea_leaves_syrup": 30}
+        ],
+        "hot_tea1": [
+          {"hot_milk": 100},
+          {"hot_water": 200},
+          {"sugar_syrup": 10},
+          {"ginger_syrup": 10},
+          {"tea_leaves_syrup": 30}
+        ],
+        "black_tea1": [
+          {"hot_water": 300},
+          {"sugar_syrup": 50},
+          {"ginger_syrup": 30},
+          {"tea_leaves_syrup": 30}
+        ],
+        "green_tea1": [
+          {"hot_water": 100},
+          {"sugar_syrup": 50},
+          {"ginger_syrup": 30},
+          {"green_mixture": 30}
+        ],
+        "hot_coffee1": [
+          {"hot_milk": 400},
+          {"hot_water": 100},
+          {"sugar_syrup": 50},
+          {"ginger_syrup": 30},
+          {"tea_leaves_syrup": 30}
+        ],
+        "hot_tea2": [
+          {"hot_milk": 100},
+          {"hot_water": 200},
+          {"sugar_syrup": 10},
+          {"ginger_syrup": 10},
+          {"tea_leaves_syrup": 30}
+        ],
+        "black_tea2": [
+          {"hot_water": 300},
+          {"sugar_syrup": 50},
+          {"ginger_syrup": 30},
+          {"tea_leaves_syrup": 30}
+        ],
+        "green_tea2": [
+          {"hot_water": 100},
+          {"sugar_syrup": 50},
+          {"ginger_syrup": 30},
+          {"green_mixture": 30}
+        ],
+        "hot_coffee2": [
+          {"hot_milk": 400},
+          {"hot_water": 100},
+          {"sugar_syrup": 50},
+          {"ginger_syrup": 30},
+          {"tea_leaves_syrup": 30}
+        ],
+        "hot_tea3": [
+          {"hot_milk": 100},
+          {"hot_water": 200},
+          {"sugar_syrup": 10},
+          {"ginger_syrup": 10},
+          {"tea_leaves_syrup": 30}
+        ],
+        "black_tea3": [
+          {"hot_water": 300},
+          {"sugar_syrup": 50},
+          {"ginger_syrup": 30},
+          {"tea_leaves_syrup": 30}
+        ],
+        "green_tea3": [
+          {"hot_water": 100},
+          {"sugar_syrup": 50},
+          {"ginger_syrup": 30},
+          {"green_mixture": 30}
+        ],
+        "hot_coffee3": [
+          {"hot_milk": 400},
+          {"hot_water": 100},
+          {"sugar_syrup": 50},
+          {"ginger_syrup": 30},
+          {"tea_leaves_syrup": 30}
+        ],
+        "hot_tea4": [
+          {"hot_milk": 100},
+          {"hot_water": 200},
+          {"sugar_syrup": 10},
+          {"ginger_syrup": 10},
+          {"tea_leaves_syrup": 30}
+        ],
+        "black_tea4": [
+          {"hot_water": 300},
+          {"sugar_syrup": 50},
+          {"ginger_syrup": 30},
+          {"tea_leaves_syrup": 30}
+        ],
+        "green_tea4": [
+          {"hot_water": 100},
+          {"sugar_syrup": 50},
+          {"ginger_syrup": 30},
+          {"green_mixture": 30}
+        ],
+        "hot_coffee4": [
+          {"hot_milk": 400},
+          {"hot_water": 100},
+          {"sugar_syrup": 50},
+          {"ginger_syrup": 30},
+          {"tea_leaves_syrup": 30}
+        ]
+      },
+      "total_items_quantity": {
+        "hot_milk": 5000,
+        "hot_water": 5000,
+        "sugar_syrup": 1000,
+        "ginger_syrup": 1000,
+        "tea_leaves_syrup": 1000,
+        "green_mixture": 300
+      }
+    }
+  },
+  {
+    "machine": {
+      "outlets": {
+        "count_n": 4
+      },
+      "beverages": {
+        "hot_tea": [
+          {"hot_milk": 100},
+          {"hot_water": 200},
+          {"sugar_syrup": 10},
+          {"ginger_syrup": 10},
+          {"tea_leaves_syrup": 30}
+        ],
+        "black_tea": [
+          {"hot_water": 300},
+          {"sugar_syrup": 50},
+          {"ginger_syrup": 30},
+          {"tea_leaves_syrup": 30}
+        ],
+        "green_tea": [
+          {"hot_water": 100},
+          {"sugar_syrup": 50},
+          {"ginger_syrup": 30},
+          {"green_mixture": 30}
+        ],
+        "hot_coffee": [
+          {"hot_milk": 400},
+          {"hot_water": 100},
+          {"sugar_syrup": 50},
+          {"ginger_syrup": 30},
+          {"tea_leaves_syrup": 30}
+        ]
+      },
+      "total_items_quantity": {
+        "hot_milk": 50,
+        "hot_water": 10,
+        "sugar_syrup": 10,
+        "ginger_syrup": 10,
+        "tea_leaves_syrup": 100,
+        "green_mixture": 20
+      }
+    }
+  }
+
+]

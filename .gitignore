@@ -1,6 +1,24 @@
 # Compiled class file
 *.class
+# Eclipse
+.classpath
+.project
+.settings/
+.gitignore
+app/test/test-output/
 
+
+# Mac
+.DS_Store
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+#gradel
+.gradle
+build
 # Log file
 *.log
 

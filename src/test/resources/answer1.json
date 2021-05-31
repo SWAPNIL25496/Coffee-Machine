@@ -1,0 +1,26 @@
+{
+  "possible_states" : [
+    {"states": [
+      {"state": "hot_tea is prepared"},
+      {"state": "hot_coffee is prepared"},
+      {"state": "green_tea is prepared"},
+      {"state": "black_tea is prepared"},
+      {"state": "hot_tea1 is prepared"},
+      {"state": "hot_coffee1 is prepared"},
+      {"state": "green_tea1 is prepared"},
+      {"state": "black_tea1 is prepared"},
+      {"state": "hot_tea2 is prepared"},
+      {"state": "hot_coffee2 is prepared"},
+      {"state": "green_tea2 is prepared"},
+      {"state": "black_tea2 is prepared"},
+      {"state": "hot_tea3 is prepared"},
+      {"state": "hot_coffee3 is prepared"},
+      {"state": "green_tea3 is prepared"},
+      {"state": "black_tea3 is prepared"},
+      {"state": "hot_tea4 is prepared"},
+      {"state": "hot_coffee4 is prepared"},
+      {"state": "green_tea4 is prepared"},
+      {"state": "black_tea4 is prepared"}
+    ]}
+  ]
+}

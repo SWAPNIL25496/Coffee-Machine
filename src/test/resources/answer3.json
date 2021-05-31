@@ -1,0 +1,10 @@
+{
+  "possible_states" : [
+    {"states": [
+      {"state": "hot_tea cannot be prepared because hot_milk is not available"},
+      {"state": "green_tea cannot be prepared because hot_water is not available"},
+      {"state": "black_tea cannot be prepared because hot_water is not available"},
+      {"state": "hot_coffee cannot be prepared because hot_milk is not available"}
+    ]}
+  ]
+}
